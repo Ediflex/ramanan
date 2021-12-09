@@ -438,7 +438,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('⛺️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⛺️', url='https://t.me/applemoviesgroupsearch')
+            InlineKeyboardButton('⛺️ Search Movies & Series From Our Group ⛺️', url='https://t.me/applemoviesgroupsearch')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🤖 sᴜᴘᴘᴏʀᴛ', url='https://t.me/appleallmovies')
