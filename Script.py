@@ -29,8 +29,8 @@ Note:- Give a user details
 
 •/whois :-give a user full details"""
     ALIVE_TXT ="""<b>ALIVE MODULE</b>
-• /alive - check me alive or dead🤧
-Just for a rasam😂"""
+• /help - check me alive or dead🤧
+Just for a rasam വെറുതെ Alive അടിച്ചു വെറുപ്പിക്കാതട ഞൻ ഇവട ജീവനോടെ ഒക്കെ തന്നെ ണ്ട് MANH ചത്തൊന്നും പോയിട്ടില്ല🥲😂"""
     CORONA_TXT ="""<b>Here is the help for the coron information module</b>
 ➡️ /covid <code>(countryname)</code> <b>you can find a corona information of every country</b>
 
