@@ -224,7 +224,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             if (st.status == "creator") or (str(userid) in ADMINS):
                 await query.message.delete()
                 try:
-                    await query.message.reply_to_message.delete()
+                    await query.message.reply_to_message.()
                 except:
                     pass
             else:
