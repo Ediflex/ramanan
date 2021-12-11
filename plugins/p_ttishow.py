@@ -51,7 +51,7 @@ async def save_group(bot, message):
                     await (temp.MELCOW['welcome']).delete()
                 except:
                     pass
-            temp.MELCOW['welcome'] = await message.reply(f"<b>ℋℯ𝓎 , {u.mention}, 𝒲ℰℒ𝒞𝒪ℳ 𝒯ℴ {message.chat.title} ℋ𝒶𝓅𝓅𝓎 𝓉ℴ 𝒽𝒶𝓋ℯ 𝒽ℯ𝓇ℯ</b>")
+            temp.MELCOW['welcome'] = await message.reply(f"<b>𝐇𝐞𝐲 , {u.mention}, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {message.chat.title} 𝐇𝐚𝐩𝐩𝐲 𝐓𝐨 𝐇𝐚𝐯𝐞 𝐇𝐞𝐫𝐞. ഞാൻ രമണൻ എന്റെ Groupലാണ് നിങ്ങൾ Movie Search ചെയ്യുന്നത് അതുകൊണ്ട് Movieയുടെ Name Google ൽ നോക്കി Groupൽ Search ചെയ്യുക. Movieയുടെ Name ൽ Spelling Mistake ഉണ്ടെങ്കിൽ ഞാൻ നിങ്ങൾക്ക് Movie തരുന്നതല്ല.             എന്ന് നിങ്ങളുടെ രമണൻ</b>")
 
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
