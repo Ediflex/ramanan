@@ -4,12 +4,12 @@ class script(object):
     HELP_TXT = """എടാ {}
 ഇനി രമണൻ Help ചെയ്യാം."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href="https://t.me/amfilterv3_bot"> രമണൻ </a>
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/ediflex>Ediflex</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v7.6 [ 𝙱𝙴𝚃𝙰 ]"""
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/ediflex>𝗘𝗗𝗜𝗙𝗟𝗘𝗫</a>
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝗣𝗬𝗥𝗢𝗚𝗥𝗔𝗠
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝗣𝗬𝗧𝗛𝗢𝗡
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝗠𝗢𝗡𝗚𝗢 𝗗𝗕
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝗩𝗣𝗦
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v7.6 [ 𝗣𝗿𝗼 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Ramanan is Not a open source project. 
 - Source - https://t.me/ediflex  
@@ -18,10 +18,10 @@ class script(object):
 - <a href=https://t.me/ediflexmp4</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and 𝚁𝚊𝚖𝚊𝚗𝚊𝚗 will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. eva maria should have admin privillage.
+1. 𝚁𝚊𝚖𝚊𝚗𝚊𝚗 should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
