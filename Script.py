@@ -5,17 +5,17 @@ class script(object):
 ഇനി രമണൻ Help ചെയ്യാം."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href="https://t.me/amfilterv3_bot"> രമണൻ </a>
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/ediflex>𝗘𝗗𝗜𝗙𝗟𝗘𝗫</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝗣𝗬𝗥𝗢𝗚𝗥𝗔𝗠
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝗣𝗬𝗧𝗛𝗢𝗡
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝗠𝗢𝗡𝗚𝗢 𝗗𝗕
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝗩𝗣𝗦
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v7.6 [ 𝗣𝗿𝗼 ]"""
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝚅𝙿𝚂
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v7.6 [ 𝙿𝚁𝙾 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Ramanan is Not a open source project. 
-- Source - https://t.me/ediflex  
+- Source - <a href=https://t.me/gKu7YQKeROkxMjY1>ബാ ബേഗം ബന്നൂട്</a>
 
 <b>DEVS:</b>
-- <a href=https://t.me/ediflexmp4</a>"""
+- <a href=https://t.me/applemoviesgroupsearch>𝚃𝚎𝚊𝚖 𝙰𝚙𝚙𝚕𝚎 𝙼𝚘𝚟𝚒𝚎𝚜</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and 𝚁𝚊𝚖𝚊𝚗𝚊𝚗 will respond whenever a keyword is found the message
