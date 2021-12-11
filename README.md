@@ -1,11 +1,11 @@
 # ANNA_BEN_BOT
 Very Sempil Bot Auto Filter bot
-##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝑨𝑵𝑵𝑵𝑨-𝑩𝑬𝑵-𝑭𝑰𝑳𝑻𝑬𝑹-𝑩𝑶𝑻!;created+by+𝑻𝑬𝑨𝑴+𝑨𝑵𝑵𝑨+𝑩𝑬𝑵!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+𝑹𝒂𝒎𝒂𝒏𝒂𝒏-𝑭𝑰𝑳𝑻𝑬𝑹-𝑩𝑶𝑻!;created+by+𝑻𝑬𝑨𝑴+𝑨𝑵𝑵𝑨+𝑩𝑬𝑵!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+futures!)
 </p>
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/d35d46c4b9f7bfc79564e.jpg)](https://heroku.com/deploy?template=https://github.com/Lallu-lallus/anna-ben-repo)
+[![Deploy](https://telegra.ph/file/e47a063739c5ef12ee357.jpg)](https://heroku.com/deploy?template=https://github.com/Ediflex/anna-ben-repo)
 
 - [x] Auto Filter
 - [x] Manuel Filter
