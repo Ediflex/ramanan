@@ -40,7 +40,7 @@ async def start(client, message):
             InlineKeyboardButton('⛺️ Search Movies & Series From Our Group ⛺️', url='https://t.me/applemoviesgroupsearch')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 sᴜᴘᴘᴏʀᴛ', url='https://t.me/appleallmovies')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/appleallmovies')
             ],[
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
@@ -81,7 +81,7 @@ async def start(client, message):
             InlineKeyboardButton('⛺️ Search Movies & Series From Our Group ⛺️', url='https://t.me/applemoviesgroupsearch')
             ],[
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 sᴜᴘᴘᴏʀᴛ', url='https://t.me/appleallmovies')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/appleallmovies')
             ],[
             InlineKeyboardButton('ℹ️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
