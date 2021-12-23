@@ -9,7 +9,7 @@ class script(object):
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝚅𝙿𝚂
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v6.1.3 [ 𝙴𝙳𝙸𝙵𝙻𝙴𝚇 ]"""
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v6.1.3 [ 𝚃𝙶 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - R𝚎𝚛𝚡𝚎𝚛 𝙹𝚛 is Not a open source project. 
 - Source - <a href=https://t.me/gKu7YQKeROkxMjY1>ബാ ബേഗം ബന്നൂട്</a>
