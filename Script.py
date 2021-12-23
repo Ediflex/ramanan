@@ -1,27 +1,27 @@
 class script(object):
     START_TXT = """ഹലോ {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href='https://t.me/amfilterv3_bot'>രമണൻ</a>, തീരുമ്പോ തീരുമ്പോ പണി തരാൻ ഞാൻ ആരാ.? കുപ്പീൻ ഇറങ്ങി വന്ന ഭൂതാ..?😍"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href='https://t.me/autofzinan_bot'>🇷 🇪 🇽 🇪 🇷  🇯 🇹 </a>, തീരുമ്പോ തീരുമ്പോ പണി തരാൻ ഞാൻ ആരാ.? കുപ്പീൻ ഇറങ്ങി വന്ന ഭൂതാ..?😍"""
     HELP_TXT = """എടാ {}
 ഇനി രമണൻ Help ചെയ്യാം."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href="https://t.me/amfilterv3_bot"> രമണൻ </a>
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/ediflex>𝙴𝙳𝙸𝙵𝙻𝙴𝚇</a>
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href="https://t.me/autofzinan_bot"> 𝚁𝚎𝚡𝚎𝚛 𝙹𝚛 </a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Mallu_mass>𝚉𝙸𝙽𝙰𝙽 𝚃𝙴𝙲𝙷2.0</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝚅𝙿𝚂
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v9.6 [ 𝙿𝚁𝙾 ]"""
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v6.1.3 [ 𝙴𝙳𝙸𝙵𝙻𝙴𝚇 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Ramanan is Not a open source project. 
+- R𝚎𝚛𝚡𝚎𝚛 𝙹𝚛 is Not a open source project. 
 - Source - <a href=https://t.me/gKu7YQKeROkxMjY1>ബാ ബേഗം ബന്നൂട്</a>
 
 <b>DEVS:</b>
-- <a href=https://t.me/applemoviesgroupsearch>𝚃𝚎𝚊𝚖 𝙰𝚙𝚙𝚕𝚎 𝙼𝚘𝚟𝚒𝚎𝚜</a>"""
+- <a href=https://t.me/movie_bus6>𝚃𝚎𝚊𝚖 𝙼𝚘𝚟𝚒𝚎 𝙱𝚞𝚜</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and 𝚁𝚊𝚖𝚊𝚗𝚊𝚗 will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. 𝚁𝚊𝚖𝚊𝚗𝚊𝚗 should have admin privillage.
+1. 𝚁𝚎𝚡𝚎𝚛 𝙹𝚛 should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -32,11 +32,11 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Ramanan Supports both url and alert inline buttons.
+- 𝚁𝚎𝚡𝚎𝚛 𝙹𝚛 Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Ramanan supports buttons with any telegram media type.
+2. 𝚁𝚎𝚡𝚎𝚛 𝙹𝚛 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
